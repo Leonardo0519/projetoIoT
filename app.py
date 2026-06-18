@@ -8,9 +8,13 @@ from dotenv import load_dotenv
 from datetime import datetime
 
 # Configuracoes de Conexao
-load_dotenv()
-url = os.environ.get("SUPABASE_URL")
-key = os.environ.get("SUPABASE_KEY")
+# load_dotenv()
+#url = os.environ.get("SUPABASE_URL")
+#key = os.environ.get("SUPABASE_KEY")
+
+# Como voce solicitou o alias 'str' anteriormente, usamos str.secrets
+url = str.secrets["SUPABASE_URL"]
+key = str.secrets["SUPABASE_KEY"]
 supabase: Client = create_client(url, key)
 
 str.set_page_config(page_title="Sistema de Cadastro IoT", layout="wide")
