@@ -10,6 +10,7 @@ O Sistema RDO foi desenvolvido como projeto de extensão universitária em parce
 A solução centraliza todo o fluxo de registros diários de obra em uma plataforma web acessível de qualquer dispositivo com internet.
 
 🎯 Problema que Resolve
+
 Antes do sistema, o fluxo de registro de obras era:
 
 ❌ Relatórios diários preenchidos em papel
@@ -18,6 +19,8 @@ Antes do sistema, o fluxo de registro de obras era:
 ❌ Falta de histórico centralizado
 ❌ Dificuldade para gerar relatórios gerenciais
 ❌ Perda de informações por extravio de papel
+
+
 Depois do sistema:
 
 ✅ Registro diário digital, georreferenciado e com foto
@@ -25,7 +28,12 @@ Depois do sistema:
 ✅ Geração automática de planilhas
 ✅ Acesso multi-usuário com diferentes permissões
 ✅ Visão consolidada de todas as obras em andamento
+
+
+
 🛠 Stack Tecnológica
+
+
 Camada
 Tecnologia
 Por que foi escolhida
