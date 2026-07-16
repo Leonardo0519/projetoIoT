@@ -42,29 +42,29 @@ Depois do sistema:
 ✨ Funcionalidades Principais
 
 👥 Multi-usuário com Permissões
-Admin: acesso total ao sistema, gestão de usuários e obras
-Engenheiro/Operador: cadastra e edita relatórios diários de obras
-Visualizador: apenas consulta e exporta dados
+- Admin: acesso total ao sistema, gestão de usuários e obras
+- Engenheiro/Operador: cadastra e edita relatórios diários de obras
+- Visualizador: apenas consulta e exporta dados
 
 🏗 Gestão de Obras
-Cadastro de novas obras (nome, localização, cliente, responsável, datas)
-Edição e arquivamento de obras concluídas
-Listagem com filtros por status, cliente e período
-Dashboard com métricas consolidadas
+- Cadastro de novas obras (nome, localização, cliente, responsável, datas)
+- Edição e arquivamento de obras concluídas
+- Listagem com filtros por status, cliente e período
+- Dashboard com métricas consolidadas
 
 📝 Relatório Diário de Obras (RDO)
-Formulário estruturado com: data, condições climáticas, equipe, atividades realizadas, dificuldades, materiais usados
-Anexo de múltiplas fotos por relatório (armazenadas no Supabase Storage)
-Histórico cronológico por obra
-Edição e versionamento
+- Formulário estruturado com: data, condições climáticas, equipe, atividades realizadas, - dificuldades, materiais usados
+- Anexo de múltiplas fotos por relatório (armazenadas no Supabase Storage)
+- Histórico cronológico por obra
+- Edição e versionamento
 
 📊 Geração Automática de Planilhas
-Exportação em Excel (.xlsx) com dados filtrados
-Formatação automática (cabeçalhos, cores, largura de colunas)
-Agregação por obra, período ou atividade
-Download direto pelo navegador
+- Exportação em Excel (.xlsx) com dados filtrados
+- Formatação automática (cabeçalhos, cores, largura de colunas)
+- Agregação por obra, período ou atividade
+- Download direto pelo navegador
 
 📈 Dashboard Visual
-Indicadores em tempo real (total de obras ativas, relatórios no mês, fotos cadastradas)
-Gráficos interativos (Plotly) com evolução diária, distribuição por tipo de atividade
+- Indicadores em tempo real (total de obras ativas, relatórios no mês, fotos cadastradas)
+- Gráficos interativos (Plotly) com evolução diária, distribuição por tipo de atividade
 Filtros por período, obra e responsável
