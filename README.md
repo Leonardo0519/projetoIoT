@@ -23,11 +23,11 @@ Antes do sistema, o fluxo de registro de obras era:
 
 Depois do sistema:
 
-✅ Registro diário digital, georreferenciado e com foto
-✅ Histórico permanente na nuvem
-✅ Geração automática de planilhas
-✅ Acesso multi-usuário com diferentes permissões
-✅ Visão consolidada de todas as obras em andamento
+- ✅ Registro diário digital, georreferenciado e com foto
+- ✅ Histórico permanente na nuvem
+- ✅ Geração automática de planilhas
+- ✅ Acesso multi-usuário com diferentes permissões
+- ✅ Visão consolidada de todas as obras em andamento
 
 
 
