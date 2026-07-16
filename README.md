@@ -28,19 +28,16 @@ Depois do sistema:
 - ✅ Acesso multi-usuário com diferentes permissões
 - ✅ Visão consolidada de todas as obras em andamento
 
+# Stacks escolhidas
 
+| Camada | Tecnologia | Por que foi escolhida |
+|--------|-----------|----------------------|
+| **Front-end** | Streamlit | Framework Python que permite criar interfaces web completas sem conhecimento profundo de HTML/CSS/JS |
+| **Back-end** | Python 3.11 | Linguagem principal do time, com ecossistema rico para automação e dados |
+| **Banco de dados** | Supabase (PostgreSQL) | Banco gerenciado em nuvem, com auth, storage e real-time integrados |
+| **Hospedagem** | Streamlit Cloud | Deploy gratuito e nativo para apps Streamlit, com CI/CD via GitHub |
+| **Automação** | Pandas + OpenPyXL | Geração de planilhas Excel a partir dos dados do banco |
 
-🛠 Stack Tecnológica
-
-
-Camada
-Tecnologia
-Por que foi escolhida
-Front-end	Streamlit	Framework Python que permite criar interfaces web completas sem conhecimento profundo de HTML/CSS/JS
-Back-end	Python 3.11	Linguagem principal do time, com ecossistema rico para automação e dados
-Banco de dados	Supabase (PostgreSQL)	Banco gerenciado em nuvem, com auth, storage e real-time integrados
-Hospedagem	Streamlit Cloud	Deploy gratuito e nativo para apps Streamlit, com CI/CD via GitHub
-Automação	Pandas + OpenPyXL	Geração de planilhas Excel a partir dos dados do banco
 
 ✨ Funcionalidades Principais
 
