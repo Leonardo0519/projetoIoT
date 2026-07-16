@@ -13,12 +13,12 @@ A solução centraliza todo o fluxo de registros diários de obra em uma platafo
 
 Antes do sistema, o fluxo de registro de obras era:
 
-❌ Relatórios diários preenchidos em papel
-❌ Fotos tiradas e armazenadas em dispositivos individuais
-❌ Planilhas Excel desatualizadas e fragmentadas
-❌ Falta de histórico centralizado
-❌ Dificuldade para gerar relatórios gerenciais
-❌ Perda de informações por extravio de papel
+- ❌ Relatórios diários preenchidos em papel
+- ❌ Fotos tiradas e armazenadas em dispositivos individuais
+- ❌ Planilhas Excel desatualizadas e fragmentadas
+- ❌ Falta de histórico centralizado
+- ❌ Dificuldade para gerar relatórios gerenciais
+- ❌ Perda de informações por extravio de papel
 
 
 Depois do sistema:
